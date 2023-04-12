@@ -25,15 +25,13 @@ Express
 AlgoSDK
 How to set up?
 
-Client Set Up
-
-# git clone
-cd client
-docker build -t back .
+#Client Set Up
+cd client->
+docker build -t back . ->
 docker run -p 5000:80
-Setting up oracle
 
-# git clone
-cd oracle
-npm i
-node oracle.js
+
+#Setting up oracle
+cd oracle->
+npm i->
+node oracle.js->
